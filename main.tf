@@ -80,6 +80,7 @@ resource "aws_security_group" "allow_web" {
    
   }
 
+
   ingress {
     description      = "HTTPS" 
     from_port        = 80
