@@ -1,2 +1,2 @@
-# mini-project
+# Terraform-mini-project
 Terraform 
